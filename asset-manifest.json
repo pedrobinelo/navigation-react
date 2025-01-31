@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/navigation-react/static/js/main.7a5f399a.js",
+    "main.js": "/navigation-react/static/js/main.c1420c72.js",
     "static/media/banner.png": "/navigation-react/static/media/banner.9ab4ead1c68ede88f1ce.png",
     "index.html": "/navigation-react/index.html",
-    "main.7a5f399a.js.map": "/navigation-react/static/js/main.7a5f399a.js.map"
+    "main.c1420c72.js.map": "/navigation-react/static/js/main.c1420c72.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a5f399a.js"
+    "static/js/main.c1420c72.js"
   ]
 }
